@@ -23,6 +23,7 @@ body{
     border-radius: 30px;
     text-decoration: none;
     margin-bottom: 20px;
+    
 }
 .imgsaly{
     width: 150px;
@@ -70,6 +71,7 @@ a{
 p{
     margin-bottom: 20px;
     margin-top: 0;
+    text-align: center;
 }
 .segundo{
     background-color: #0c0452;
